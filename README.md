@@ -179,6 +179,6 @@ This project demonstrates how **data science and machine learning** can be effec
 
 For questions or collaboration:
 
-* **Author:** [Dheeraj Patel]
-* **Email:** [[patel.dheeraj98@gmail.com](mailto:patel.dheeraj98@gmail.com)]
-* **LinkedIn/GitHub:** [www.linkedin.com/in/patel-dheeraj]
+* **Author:** [Sankalp patekar]
+* **Email:** [[sankalp.p7788@gmail.com](mailto:sankalp.p77888@gmail.com)]
+* **LinkedIn/GitHub:** [[https://www.linkedin.com/in/sankalp-patekar/](https://www.linkedin.com/in/sankalp-patekar/)]
